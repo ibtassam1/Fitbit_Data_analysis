@@ -1,0 +1,91 @@
+[{
+  "dateTime" : "04/05/22 11:06:41",
+  "value" : {
+    "bpm" : 70,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "04/05/22 11:06:51",
+  "value" : {
+    "bpm" : 79,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "04/05/22 11:06:56",
+  "value" : {
+    "bpm" : 99,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "04/05/22 11:07:01",
+  "value" : {
+    "bpm" : 83,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "04/05/22 11:07:06",
+  "value" : {
+    "bpm" : 81,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "04/05/22 11:07:11",
+  "value" : {
+    "bpm" : 77,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "04/05/22 11:07:16",
+  "value" : {
+    "bpm" : 76,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "04/05/22 11:07:21",
+  "value" : {
+    "bpm" : 77,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "04/05/22 11:07:31",
+  "value" : {
+    "bpm" : 78,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "04/05/22 11:07:41",
+  "value" : {
+    "bpm" : 79,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "04/05/22 11:07:46",
+  "value" : {
+    "bpm" : 78,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "04/05/22 11:07:56",
+  "value" : {
+    "bpm" : 79,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "04/05/22 11:08:01",
+  "value" : {
+    "bpm" : 78,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "04/05/22 11:08:11",
+  "value" : {
+    "bpm" : 79,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "04/05/22 11:08:21",
+  "value" : {
+    "bpm" : 80,
+    "confidence" : 1
+  }
+}]

@@ -1,0 +1,1237 @@
+[{
+  "dateTime" : "07/03/22 06:00:04",
+  "value" : {
+    "bpm" : 80,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 06:00:19",
+  "value" : {
+    "bpm" : 80,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 06:00:36",
+  "value" : {
+    "bpm" : 80,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 06:00:51",
+  "value" : {
+    "bpm" : 80,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 06:00:56",
+  "value" : {
+    "bpm" : 79,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 06:01:06",
+  "value" : {
+    "bpm" : 78,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 06:01:11",
+  "value" : {
+    "bpm" : 77,
+    "confidence" : 2
+  }
+},{
+  "dateTime" : "07/03/22 06:01:26",
+  "value" : {
+    "bpm" : 77,
+    "confidence" : 2
+  }
+},{
+  "dateTime" : "07/03/22 06:01:41",
+  "value" : {
+    "bpm" : 77,
+    "confidence" : 2
+  }
+},{
+  "dateTime" : "07/03/22 06:01:51",
+  "value" : {
+    "bpm" : 78,
+    "confidence" : 2
+  }
+},{
+  "dateTime" : "07/03/22 06:02:06",
+  "value" : {
+    "bpm" : 78,
+    "confidence" : 2
+  }
+},{
+  "dateTime" : "07/03/22 06:02:16",
+  "value" : {
+    "bpm" : 77,
+    "confidence" : 2
+  }
+},{
+  "dateTime" : "07/03/22 06:02:21",
+  "value" : {
+    "bpm" : 75,
+    "confidence" : 2
+  }
+},{
+  "dateTime" : "07/03/22 06:02:26",
+  "value" : {
+    "bpm" : 83,
+    "confidence" : 2
+  }
+},{
+  "dateTime" : "07/03/22 06:02:31",
+  "value" : {
+    "bpm" : 82,
+    "confidence" : 2
+  }
+},{
+  "dateTime" : "07/03/22 06:02:36",
+  "value" : {
+    "bpm" : 81,
+    "confidence" : 2
+  }
+},{
+  "dateTime" : "07/03/22 06:02:51",
+  "value" : {
+    "bpm" : 81,
+    "confidence" : 2
+  }
+},{
+  "dateTime" : "07/03/22 06:03:06",
+  "value" : {
+    "bpm" : 81,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 06:03:45",
+  "value" : {
+    "bpm" : 70,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "07/03/22 06:03:55",
+  "value" : {
+    "bpm" : 69,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "07/03/22 06:04:00",
+  "value" : {
+    "bpm" : 69,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 06:04:05",
+  "value" : {
+    "bpm" : 77,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 06:04:15",
+  "value" : {
+    "bpm" : 76,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 06:04:20",
+  "value" : {
+    "bpm" : 75,
+    "confidence" : 2
+  }
+},{
+  "dateTime" : "07/03/22 06:04:25",
+  "value" : {
+    "bpm" : 73,
+    "confidence" : 2
+  }
+},{
+  "dateTime" : "07/03/22 06:04:40",
+  "value" : {
+    "bpm" : 73,
+    "confidence" : 2
+  }
+},{
+  "dateTime" : "07/03/22 06:04:55",
+  "value" : {
+    "bpm" : 74,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 06:05:00",
+  "value" : {
+    "bpm" : 75,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 06:05:15",
+  "value" : {
+    "bpm" : 75,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 06:05:20",
+  "value" : {
+    "bpm" : 76,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 06:05:25",
+  "value" : {
+    "bpm" : 77,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 06:05:30",
+  "value" : {
+    "bpm" : 78,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 06:05:45",
+  "value" : {
+    "bpm" : 79,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 06:05:55",
+  "value" : {
+    "bpm" : 80,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 06:06:05",
+  "value" : {
+    "bpm" : 78,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 06:06:10",
+  "value" : {
+    "bpm" : 75,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 06:06:15",
+  "value" : {
+    "bpm" : 73,
+    "confidence" : 2
+  }
+},{
+  "dateTime" : "07/03/22 06:06:30",
+  "value" : {
+    "bpm" : 74,
+    "confidence" : 2
+  }
+},{
+  "dateTime" : "07/03/22 06:06:40",
+  "value" : {
+    "bpm" : 74,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 06:06:45",
+  "value" : {
+    "bpm" : 75,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 06:06:50",
+  "value" : {
+    "bpm" : 76,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 06:06:55",
+  "value" : {
+    "bpm" : 77,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 06:07:12",
+  "value" : {
+    "bpm" : 77,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 06:07:27",
+  "value" : {
+    "bpm" : 77,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 06:07:37",
+  "value" : {
+    "bpm" : 79,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 06:07:42",
+  "value" : {
+    "bpm" : 79,
+    "confidence" : 2
+  }
+},{
+  "dateTime" : "07/03/22 06:07:52",
+  "value" : {
+    "bpm" : 78,
+    "confidence" : 2
+  }
+},{
+  "dateTime" : "07/03/22 06:08:07",
+  "value" : {
+    "bpm" : 78,
+    "confidence" : 2
+  }
+},{
+  "dateTime" : "07/03/22 06:08:17",
+  "value" : {
+    "bpm" : 77,
+    "confidence" : 2
+  }
+},{
+  "dateTime" : "07/03/22 06:08:27",
+  "value" : {
+    "bpm" : 78,
+    "confidence" : 2
+  }
+},{
+  "dateTime" : "07/03/22 06:08:37",
+  "value" : {
+    "bpm" : 79,
+    "confidence" : 2
+  }
+},{
+  "dateTime" : "07/03/22 06:08:42",
+  "value" : {
+    "bpm" : 80,
+    "confidence" : 2
+  }
+},{
+  "dateTime" : "07/03/22 06:08:57",
+  "value" : {
+    "bpm" : 80,
+    "confidence" : 2
+  }
+},{
+  "dateTime" : "07/03/22 06:09:02",
+  "value" : {
+    "bpm" : 86,
+    "confidence" : 2
+  }
+},{
+  "dateTime" : "07/03/22 07:00:06",
+  "value" : {
+    "bpm" : 70,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "07/03/22 07:00:21",
+  "value" : {
+    "bpm" : 70,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 07:00:26",
+  "value" : {
+    "bpm" : 77,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 07:00:36",
+  "value" : {
+    "bpm" : 75,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 07:00:41",
+  "value" : {
+    "bpm" : 74,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 07:00:46",
+  "value" : {
+    "bpm" : 73,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 07:00:51",
+  "value" : {
+    "bpm" : 74,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 07:00:56",
+  "value" : {
+    "bpm" : 75,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 15:00:18",
+  "value" : {
+    "bpm" : 70,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "07/03/22 15:00:28",
+  "value" : {
+    "bpm" : 70,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 15:00:33",
+  "value" : {
+    "bpm" : 79,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 15:00:38",
+  "value" : {
+    "bpm" : 78,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 15:00:43",
+  "value" : {
+    "bpm" : 77,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 15:00:48",
+  "value" : {
+    "bpm" : 76,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 15:00:53",
+  "value" : {
+    "bpm" : 75,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 15:01:03",
+  "value" : {
+    "bpm" : 76,
+    "confidence" : 2
+  }
+},{
+  "dateTime" : "07/03/22 15:01:08",
+  "value" : {
+    "bpm" : 76,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 15:01:18",
+  "value" : {
+    "bpm" : 77,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:05:18",
+  "value" : {
+    "bpm" : 70,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "07/03/22 18:05:28",
+  "value" : {
+    "bpm" : 69,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:05:33",
+  "value" : {
+    "bpm" : 75,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:05:38",
+  "value" : {
+    "bpm" : 79,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:05:53",
+  "value" : {
+    "bpm" : 79,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:05:58",
+  "value" : {
+    "bpm" : 78,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:06:03",
+  "value" : {
+    "bpm" : 76,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:06:08",
+  "value" : {
+    "bpm" : 75,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:06:13",
+  "value" : {
+    "bpm" : 77,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:06:18",
+  "value" : {
+    "bpm" : 79,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:10:15",
+  "value" : {
+    "bpm" : 70,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "07/03/22 18:10:25",
+  "value" : {
+    "bpm" : 70,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:10:35",
+  "value" : {
+    "bpm" : 75,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:10:40",
+  "value" : {
+    "bpm" : 77,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:10:50",
+  "value" : {
+    "bpm" : 78,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:11:00",
+  "value" : {
+    "bpm" : 79,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:11:15",
+  "value" : {
+    "bpm" : 79,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:11:25",
+  "value" : {
+    "bpm" : 78,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:11:40",
+  "value" : {
+    "bpm" : 78,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:11:55",
+  "value" : {
+    "bpm" : 78,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:19:57",
+  "value" : {
+    "bpm" : 70,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "07/03/22 18:20:07",
+  "value" : {
+    "bpm" : 72,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "07/03/22 18:20:12",
+  "value" : {
+    "bpm" : 74,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "07/03/22 18:20:17",
+  "value" : {
+    "bpm" : 80,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:20:22",
+  "value" : {
+    "bpm" : 78,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:20:27",
+  "value" : {
+    "bpm" : 77,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:20:42",
+  "value" : {
+    "bpm" : 78,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:20:47",
+  "value" : {
+    "bpm" : 77,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:20:52",
+  "value" : {
+    "bpm" : 78,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:24:50",
+  "value" : {
+    "bpm" : 70,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "07/03/22 18:25:00",
+  "value" : {
+    "bpm" : 71,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "07/03/22 18:25:05",
+  "value" : {
+    "bpm" : 73,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:25:10",
+  "value" : {
+    "bpm" : 74,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:25:15",
+  "value" : {
+    "bpm" : 79,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:25:20",
+  "value" : {
+    "bpm" : 78,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:25:30",
+  "value" : {
+    "bpm" : 79,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:25:35",
+  "value" : {
+    "bpm" : 81,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:25:40",
+  "value" : {
+    "bpm" : 82,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:25:45",
+  "value" : {
+    "bpm" : 81,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:25:50",
+  "value" : {
+    "bpm" : 80,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:25:55",
+  "value" : {
+    "bpm" : 78,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:26:05",
+  "value" : {
+    "bpm" : 77,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:43:07",
+  "value" : {
+    "bpm" : 70,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "07/03/22 18:43:22",
+  "value" : {
+    "bpm" : 72,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:43:27",
+  "value" : {
+    "bpm" : 74,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:43:37",
+  "value" : {
+    "bpm" : 75,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:43:47",
+  "value" : {
+    "bpm" : 76,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:44:02",
+  "value" : {
+    "bpm" : 76,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:44:17",
+  "value" : {
+    "bpm" : 76,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:51:05",
+  "value" : {
+    "bpm" : 70,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "07/03/22 18:51:15",
+  "value" : {
+    "bpm" : 72,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "07/03/22 18:51:20",
+  "value" : {
+    "bpm" : 75,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "07/03/22 18:51:25",
+  "value" : {
+    "bpm" : 76,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:51:30",
+  "value" : {
+    "bpm" : 78,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:51:35",
+  "value" : {
+    "bpm" : 76,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:51:40",
+  "value" : {
+    "bpm" : 75,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:51:45",
+  "value" : {
+    "bpm" : 76,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:51:55",
+  "value" : {
+    "bpm" : 77,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:52:10",
+  "value" : {
+    "bpm" : 77,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:52:20",
+  "value" : {
+    "bpm" : 76,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:52:35",
+  "value" : {
+    "bpm" : 76,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:52:40",
+  "value" : {
+    "bpm" : 76,
+    "confidence" : 2
+  }
+},{
+  "dateTime" : "07/03/22 18:52:45",
+  "value" : {
+    "bpm" : 74,
+    "confidence" : 2
+  }
+},{
+  "dateTime" : "07/03/22 18:56:36",
+  "value" : {
+    "bpm" : 70,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "07/03/22 18:56:46",
+  "value" : {
+    "bpm" : 70,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:56:51",
+  "value" : {
+    "bpm" : 78,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:56:56",
+  "value" : {
+    "bpm" : 79,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:57:01",
+  "value" : {
+    "bpm" : 80,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:57:11",
+  "value" : {
+    "bpm" : 81,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:57:16",
+  "value" : {
+    "bpm" : 80,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:57:21",
+  "value" : {
+    "bpm" : 79,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:57:26",
+  "value" : {
+    "bpm" : 78,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 18:57:36",
+  "value" : {
+    "bpm" : 79,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 19:33:33",
+  "value" : {
+    "bpm" : 70,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "07/03/22 19:33:48",
+  "value" : {
+    "bpm" : 70,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "07/03/22 19:33:53",
+  "value" : {
+    "bpm" : 71,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 19:33:58",
+  "value" : {
+    "bpm" : 73,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 19:34:03",
+  "value" : {
+    "bpm" : 74,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 19:34:08",
+  "value" : {
+    "bpm" : 73,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 19:34:13",
+  "value" : {
+    "bpm" : 75,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 19:34:18",
+  "value" : {
+    "bpm" : 77,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 19:34:33",
+  "value" : {
+    "bpm" : 77,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:00:13",
+  "value" : {
+    "bpm" : 70,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "07/03/22 20:00:23",
+  "value" : {
+    "bpm" : 74,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "07/03/22 20:00:28",
+  "value" : {
+    "bpm" : 79,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:00:33",
+  "value" : {
+    "bpm" : 78,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:00:38",
+  "value" : {
+    "bpm" : 76,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:00:43",
+  "value" : {
+    "bpm" : 75,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:00:53",
+  "value" : {
+    "bpm" : 76,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:01:03",
+  "value" : {
+    "bpm" : 77,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:01:18",
+  "value" : {
+    "bpm" : 77,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:01:33",
+  "value" : {
+    "bpm" : 77,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:01:38",
+  "value" : {
+    "bpm" : 76,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:01:48",
+  "value" : {
+    "bpm" : 77,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:14:21",
+  "value" : {
+    "bpm" : 70,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "07/03/22 20:14:31",
+  "value" : {
+    "bpm" : 71,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "07/03/22 20:14:36",
+  "value" : {
+    "bpm" : 73,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:14:41",
+  "value" : {
+    "bpm" : 76,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:14:46",
+  "value" : {
+    "bpm" : 80,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:14:51",
+  "value" : {
+    "bpm" : 78,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:14:56",
+  "value" : {
+    "bpm" : 77,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:15:11",
+  "value" : {
+    "bpm" : 77,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:16:37",
+  "value" : {
+    "bpm" : 70,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "07/03/22 20:16:47",
+  "value" : {
+    "bpm" : 71,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "07/03/22 20:16:52",
+  "value" : {
+    "bpm" : 72,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:16:57",
+  "value" : {
+    "bpm" : 73,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:17:07",
+  "value" : {
+    "bpm" : 74,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:17:17",
+  "value" : {
+    "bpm" : 75,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:17:22",
+  "value" : {
+    "bpm" : 76,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:17:27",
+  "value" : {
+    "bpm" : 77,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:17:32",
+  "value" : {
+    "bpm" : 78,
+    "confidence" : 2
+  }
+},{
+  "dateTime" : "07/03/22 20:17:42",
+  "value" : {
+    "bpm" : 78,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:17:57",
+  "value" : {
+    "bpm" : 79,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:18:12",
+  "value" : {
+    "bpm" : 79,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:18:27",
+  "value" : {
+    "bpm" : 79,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:18:32",
+  "value" : {
+    "bpm" : 78,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:18:37",
+  "value" : {
+    "bpm" : 77,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:23:13",
+  "value" : {
+    "bpm" : 70,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "07/03/22 20:23:28",
+  "value" : {
+    "bpm" : 71,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:23:38",
+  "value" : {
+    "bpm" : 77,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:23:48",
+  "value" : {
+    "bpm" : 76,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:23:58",
+  "value" : {
+    "bpm" : 77,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:24:13",
+  "value" : {
+    "bpm" : 78,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:24:23",
+  "value" : {
+    "bpm" : 77,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:24:38",
+  "value" : {
+    "bpm" : 77,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:24:53",
+  "value" : {
+    "bpm" : 76,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:24:58",
+  "value" : {
+    "bpm" : 78,
+    "confidence" : 2
+  }
+},{
+  "dateTime" : "07/03/22 20:25:08",
+  "value" : {
+    "bpm" : 78,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:25:13",
+  "value" : {
+    "bpm" : 79,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:25:18",
+  "value" : {
+    "bpm" : 78,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:25:33",
+  "value" : {
+    "bpm" : 78,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "07/03/22 20:25:38",
+  "value" : {
+    "bpm" : 80,
+    "confidence" : 2
+  }
+},{
+  "dateTime" : "07/03/22 20:25:53",
+  "value" : {
+    "bpm" : 80,
+    "confidence" : 2
+  }
+},{
+  "dateTime" : "07/04/22 01:38:37",
+  "value" : {
+    "bpm" : 70,
+    "confidence" : 0
+  }
+}]

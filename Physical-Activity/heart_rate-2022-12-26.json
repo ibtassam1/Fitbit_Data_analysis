@@ -1,0 +1,55 @@
+[{
+  "dateTime" : "12/26/22 17:33:21",
+  "value" : {
+    "bpm" : 70,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "12/26/22 17:33:31",
+  "value" : {
+    "bpm" : 75,
+    "confidence" : 0
+  }
+},{
+  "dateTime" : "12/26/22 17:33:36",
+  "value" : {
+    "bpm" : 89,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "12/26/22 17:33:41",
+  "value" : {
+    "bpm" : 88,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "12/26/22 17:33:46",
+  "value" : {
+    "bpm" : 86,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "12/26/22 17:33:51",
+  "value" : {
+    "bpm" : 83,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "12/26/22 17:33:56",
+  "value" : {
+    "bpm" : 80,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "12/26/22 17:34:01",
+  "value" : {
+    "bpm" : 81,
+    "confidence" : 1
+  }
+},{
+  "dateTime" : "12/26/22 17:34:16",
+  "value" : {
+    "bpm" : 81,
+    "confidence" : 1
+  }
+}]
